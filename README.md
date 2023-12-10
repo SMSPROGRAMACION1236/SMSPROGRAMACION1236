@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Santiago David Sanabria Varela</h1>
+<!-- <h1 align="center">Hola 👋, soy Santiago David Sanabria Varela</h1>
 <h3 align="center">Un apasionado desarrollador de IA de Paraguay</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smsprogramacion1236&label=Profile%20views&color=0e75b6&style=flat" alt="smsprogramacion1236" /> </p>
@@ -22,4 +22,4 @@
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=smsprogramacion1236&show_icons=true&locale=en" alt="smsprogramacion1236" /> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smsprogramacion1236&" alt="smsprogramacion1236" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smsprogramacion1236&" alt="smsprogramacion1236" /></p> -->
